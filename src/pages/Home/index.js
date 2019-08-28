@@ -1,15 +1,18 @@
 import React from "react";
 
+import { Container } from "./styles";
 import home from "../../assets/home.svg";
 import signin from "../../assets/signin.svg";
 
 export default function Home() {
   return (
-    <div>
+    <Container>
       <header>
         <h1>DW2 Tuts</h1>
       </header>
-      <section />
+
+      <section>article>header>h2+p+div>p*3>lorem</section>
+
       <nav>
         <div>
           <img src={home} alt="Home" />
@@ -20,6 +23,6 @@ export default function Home() {
           <p>login</p>
         </div>
       </nav>
-    </div>
+    </Container>
   );
 }
