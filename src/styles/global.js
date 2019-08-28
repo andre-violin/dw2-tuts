@@ -14,8 +14,17 @@ export default createGlobalStyle`
     height: 100%;
   }
 
+  body {
+    background: #3E3E3E;
+  }
+
   h1 {
     font-size: 2em;
+    font-weight: bold;
+  }
+
+  h2 {
+    font-size: 1.6em;
     font-weight: bold;
   }
 `;

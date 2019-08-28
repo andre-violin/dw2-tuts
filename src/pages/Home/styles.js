@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  header {
+  .main-header {
     height: 80px;
     background: #292929;
     color: #fff;
@@ -13,6 +13,8 @@ export const Container = styled.div`
   section {
     width: 100%;
     max-width: 798px;
+    margin: 30px auto 110px;
+    padding: 20px;
   }
 
   nav {
