@@ -28,7 +28,7 @@ export const Container = styled.div`
     display: flex;
   }
 
-  nav div {
+  nav .link {
     flex-grow: 1;
     display: flex;
     flex-direction: column;
@@ -36,7 +36,7 @@ export const Container = styled.div`
     align-items: center;
   }
 
-  nav div img {
+  nav .link img {
     display: block;
   }
 `;

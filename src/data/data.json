@@ -4,209 +4,269 @@
     "titulo": "Persistent contextually-based framework",
     "autor": "Peggi Poynter",
     "texto": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-    "data": "04/30/2019"
+    "data": "04/30/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "26f9a31e-2924-47a1-98fc-60b3cf8be7d1",
     "titulo": "Fully-configurable cohesive info-mediaries",
     "autor": "Stephine Dedney",
     "texto": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-    "data": "12/09/2018"
+    "data": "12/09/2018",
+
+    "naoEntendi": 10
   },
   {
     "_id": "dd4bcb91-bb80-4104-893b-6c31576290a7",
     "titulo": "Fully-configurable mobile product",
     "autor": "Tyrus Vanderson",
     "texto": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-    "data": "07/29/2019"
+    "data": "07/29/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "6f716283-3820-41b4-876a-65fc95ed5f22",
     "titulo": "Intuitive system-worthy concept",
     "autor": "Karyl Gerriets",
     "texto": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-    "data": "09/03/2018"
+    "data": "09/03/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "9cfedd81-f20d-491f-a28c-4ee072fdf0e7",
     "titulo": "Balanced maximized concept",
     "autor": "Jimmy Goudman",
     "texto": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-    "data": "03/01/2019"
+    "data": "03/01/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "114e919c-3815-4665-a167-26c958ac1d0b",
     "titulo": "Fully-configurable radical focus group",
     "autor": "Kort Spadaro",
     "texto": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
-    "data": "02/04/2019"
+    "data": "02/04/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "530f61d0-6d90-494c-82d2-6edbf9fea0a6",
     "titulo": "De-engineered tertiary adapter",
     "autor": "Datha Bothie",
     "texto": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-    "data": "05/08/2019"
+    "data": "05/08/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "3f122c03-0999-4f68-ad08-6878ae6bce0e",
     "titulo": "Customizable client-driven infrastructure",
     "autor": "Thorn Shinefield",
     "texto": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-    "data": "05/15/2019"
+    "data": "05/15/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "9a40a5b0-fb39-49f4-a351-1646e0fd68bc",
     "titulo": "Advanced holistic neural-net",
     "autor": "Constancia Sinden",
     "texto": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-    "data": "04/20/2019"
+    "data": "04/20/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "085489b7-1d21-455d-b578-4f7cf7b0e1b5",
     "titulo": "Innovative radical projection",
     "autor": "Cyndie Whyman",
     "texto": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-    "data": "11/02/2018"
+    "data": "11/02/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "1c27399d-e1c4-4881-8fa8-a3a27426873e",
     "titulo": "Enterprise-wide zero defect knowledge user",
     "autor": "Hazel Dufton",
     "texto": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-    "data": "04/16/2019"
+    "data": "04/16/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "907e6f54-6930-4fe6-8160-0477a333429c",
     "titulo": "Managed bifurcated protocol",
     "autor": "Darcey Roche",
     "texto": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-    "data": "12/01/2018"
+    "data": "12/01/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "ac518ded-44d9-4586-afbc-e0c379b99e23",
     "titulo": "Multi-lateral mission-critical strategy",
     "autor": "Cammi Pulbrook",
     "texto": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-    "data": "02/27/2019"
+    "data": "02/27/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "f3252e15-4150-4117-924c-6b8a48e55903",
     "titulo": "Innovative real-time conglomeration",
     "autor": "Phyllida Officer",
     "texto": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-    "data": "10/01/2018"
+    "data": "10/01/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "3dcc8d8f-529d-464a-88fb-bd01861f89d8",
     "titulo": "Inverse uniform implementation",
     "autor": "Melony Tunniclisse",
     "texto": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-    "data": "03/24/2019"
+    "data": "03/24/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "015935be-8333-427b-bb42-a972ee1a9ffa",
     "titulo": "Compatible asynchronous architecture",
     "autor": "Franzen Alastair",
     "texto": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
-    "data": "03/30/2019"
+    "data": "03/30/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "a769a6e7-6417-4372-87ee-d477cc376964",
     "titulo": "Fundamental zero administration matrices",
     "autor": "Jaquelyn Gaspar",
     "texto": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
-    "data": "11/13/2018"
+    "data": "11/13/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "235a7ad3-3ca8-441f-8d11-1f3d5b93660f",
     "titulo": "Diverse regional pricing structure",
     "autor": "Bertina Infante",
     "texto": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-    "data": "07/01/2019"
+    "data": "07/01/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "a7f12050-0ae9-48a9-8df0-3678cf6f71a6",
     "titulo": "Fundamental foreground attitude",
     "autor": "Theresa Vannoni",
     "texto": "Fusce consequat. Nulla nisl. Nunc nisl.",
-    "data": "11/13/2018"
+    "data": "11/13/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "bb92ebe5-d5f0-4822-b8f4-badd194505bd",
     "titulo": "Realigned holistic neural-net",
     "autor": "Angil Flaxman",
     "texto": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-    "data": "06/02/2019"
+    "data": "06/02/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "a0a8de85-fb2f-4f3a-bec6-d785d739de47",
     "titulo": "Customizable maximized frame",
     "autor": "Justus Riddeough",
     "texto": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
-    "data": "02/17/2019"
+    "data": "02/17/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "77d5fa52-d1c0-45cc-b178-29eb4665177c",
     "titulo": "Configurable transitional info-mediaries",
     "autor": "Woody Inchbald",
     "texto": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-    "data": "08/15/2019"
+    "data": "08/15/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "90fffaf9-a13b-44ab-9fa1-5501c23c5ac5",
     "titulo": "Extended cohesive orchestration",
     "autor": "Ladonna Franzelini",
     "texto": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-    "data": "12/09/2018"
+    "data": "12/09/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "0fcc0492-a34d-4061-b3f8-33d5e8750ef9",
     "titulo": "Extended demand-driven hub",
     "autor": "Austen Buesnel",
     "texto": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
-    "data": "02/10/2019"
+    "data": "02/10/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "b6e67094-c71c-418c-9841-b7d34ec013c0",
     "titulo": "Multi-lateral non-volatile synergy",
     "autor": "Elsie Bew",
     "texto": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
-    "data": "04/17/2019"
+    "data": "04/17/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "6eab7ebe-7913-475c-ba2c-d88dc99bf3f7",
     "titulo": "De-engineered 24 hour utilisation",
     "autor": "D'arcy Pendreigh",
     "texto": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-    "data": "02/15/2019"
+    "data": "02/15/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "1b522781-d7a9-444e-9e39-90336386d201",
     "titulo": "Face to face cohesive moratorium",
     "autor": "Kesley Bugdell",
     "texto": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
-    "data": "10/21/2018"
+    "data": "10/21/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "a0243df5-8ff7-4f20-b61e-b57fe32ebd1d",
     "titulo": "Reduced disintermediate challenge",
     "autor": "Sutherland Buyers",
     "texto": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-    "data": "09/18/2018"
+    "data": "09/18/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "868010fc-7813-4724-982e-973144780611",
     "titulo": "Future-proofed web-enabled standardization",
     "autor": "Hollie Edwins",
     "texto": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-    "data": "12/12/2018"
+    "data": "12/12/2018",
+    "entendi": 8,
+    "naoEntendi": 10
   },
   {
     "_id": "2d55e2f5-d314-4c8b-a750-b1a1b7940ec8",
     "titulo": "Centralized actuating knowledge user",
     "autor": "Kip Bunhill",
     "texto": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-    "data": "06/25/2019"
+    "data": "06/25/2019",
+    "entendi": 8,
+    "naoEntendi": 10
   }
 ]

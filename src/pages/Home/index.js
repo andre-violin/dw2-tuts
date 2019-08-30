@@ -1,11 +1,21 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 
 import { Container } from "./styles";
 import home from "../../assets/home.svg";
 import signin from "../../assets/signin.svg";
 import Tutorial from "../../components/Tutorial";
 
+import data from "../../data/data.json";
+
 export default function Home() {
+  const [tutoriais, setTutoriais] = useState([]);
+
+  useEffect(() => {
+    setTutoriais(data);
+    console.table(tutoriais);
+  }, [tutoriais]);
+
   return (
     <Container>
       <header className="main-header">
@@ -13,34 +23,27 @@ export default function Home() {
       </header>
 
       <section>
-        <Tutorial
-          titulo="Introdução ao JavaScript"
-          autor="Nome do Autor"
-          texto="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita
-          iste neque aliquid maxime ex rem, ipsa quaerat saepe deleniti quisquam
-          quos blanditiis cupiditate magni vel. Dolorem accusamus soluta dolore
-          eos."
-        />
-
-        <Tutorial
-          titulo="JavaScript Avançado"
-          autor="André L. Violin"
-          texto="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita
-          iste neque aliquid maxime ex rem, ipsa quaerat saepe deleniti quisquam
-          quos blanditiis cupiditate magni vel. Dolorem accusamus soluta dolore
-          eos."
-        />
+        {tutoriais &&
+          tutoriais.map(tutorial => (
+            <Tutorial
+              titulo={tutorial.titulo}
+              autor={tutorial.autor}
+              texto={tutorial.texto}
+              entendi={tutorial.entendi}
+              naoEntendi={tutorial.naoEntendi}
+            />
+          ))}
       </section>
 
       <nav>
-        <div>
+        <Link className="link" to="/">
           <img src={home} alt="Home" />
           <p>home</p>
-        </div>
-        <div>
+        </Link>
+        <Link className="link" to="/login">
           <img src={signin} alt="Login" />
           <p>login</p>
-        </div>
+        </Link>
       </nav>
     </Container>
   );
