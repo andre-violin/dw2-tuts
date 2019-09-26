@@ -22,29 +22,31 @@ export default function Home() {
         <h1>DW2 Tuts</h1>
       </header>
 
-      <section>
-        {tutoriais &&
-          tutoriais.map(tutorial => (
-            <Tutorial
-              titulo={tutorial.titulo}
-              autor={tutorial.autor}
-              texto={tutorial.texto}
-              entendi={tutorial.entendi}
-              naoEntendi={tutorial.naoEntendi}
-            />
-          ))}
-      </section>
+      <div className="main">
+        <section>
+          {tutoriais &&
+            tutoriais.map(tutorial => (
+              <Tutorial
+                titulo={tutorial.titulo}
+                autor={tutorial.autor}
+                texto={tutorial.texto}
+                entendi={tutorial.entendi}
+                naoEntendi={tutorial.naoEntendi}
+              />
+            ))}
+        </section>
 
-      <nav>
-        <Link className="link" to="/">
-          <img src={home} alt="Home" />
-          <p>home</p>
-        </Link>
-        <Link className="link" to="/login">
-          <img src={signin} alt="Login" />
-          <p>login</p>
-        </Link>
-      </nav>
+        <nav>
+          <Link className="link" to="/">
+            <img src={home} alt="Home" />
+            <p>home</p>
+          </Link>
+          <Link className="link" to="/login">
+            <img src={signin} alt="Login" />
+            <p>login</p>
+          </Link>
+        </nav>
+      </div>
     </Container>
   );
 }

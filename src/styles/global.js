@@ -16,7 +16,7 @@ export default createGlobalStyle`
 
   body {
     background: #3E3E3E;
-    /* font-family: 'Roboto', sans-serif; */
+    font-family: Roboto, sans-serif;
   }
 
   h1 {

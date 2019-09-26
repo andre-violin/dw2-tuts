@@ -23,10 +23,10 @@ export default function Tutorial(props) {
       </div>
       <div>
         <button type="button" onClick={handleEntendi}>
-          Entendi ({entendi})
+          Entendi <span>{entendi}</span>
         </button>
         <button type="button" onClick={() => setNaoEntendi(naoEntendi + 1)}>
-          Não Entendi ({naoEntendi})
+          Não Entendi <span>{naoEntendi}</span>
         </button>
       </div>
     </Container>
