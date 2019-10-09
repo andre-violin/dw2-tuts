@@ -1,19 +1,18 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
 
+import api from "../../services/api";
 import { Container } from "./styles";
-import home from "../../assets/home.svg";
-import signin from "../../assets/signin.svg";
 import Tutorial from "../../components/Tutorial";
-
-import data from "../../data/data.json";
 
 export default function Home() {
   const [tutoriais, setTutoriais] = useState([]);
 
   useEffect(() => {
-    setTutoriais(data);
-    console.table(tutoriais);
+    async function loadTutorias() {
+      const response = await api.get("/tutorial");
+      setTutoriais(response.data);
+    }
+    loadTutorias();
   }, [tutoriais]);
 
   return (
@@ -27,25 +26,15 @@ export default function Home() {
           {tutoriais &&
             tutoriais.map(tutorial => (
               <Tutorial
+                key={tutorial._id}
                 titulo={tutorial.titulo}
                 autor={tutorial.autor}
-                texto={tutorial.texto}
+                texto={tutorial.conteudo}
                 entendi={tutorial.entendi}
                 naoEntendi={tutorial.naoEntendi}
               />
             ))}
         </section>
-
-        <nav>
-          <Link className="link" to="/">
-            <img src={home} alt="Home" />
-            <p>home</p>
-          </Link>
-          <Link className="link" to="/login">
-            <img src={signin} alt="Login" />
-            <p>login</p>
-          </Link>
-        </nav>
       </div>
     </Container>
   );

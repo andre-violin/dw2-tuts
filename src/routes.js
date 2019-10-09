@@ -1,14 +1,18 @@
-import React from "react";
-import { BrowserRouter, Route } from "react-router-dom";
+import React from "react"
+import { BrowserRouter, Route } from "react-router-dom"
 
-import Home from "./pages/Home";
-import Login from "./pages/Login";
+import Login from "./pages/Login"
+import Home from "./pages/Home"
+import AddTutorial from "./pages/AddTutorial"
+import Nav from "./components/Nav"
 
 export default function Routes() {
   return (
     <BrowserRouter>
-      <Route exact path="/" component={Home} />
-      <Route path="/login" component={Login} />
+      <Route exact path="/" component={Login} />
+      <Nav />
+      <Route path="/tutoriais" component={Home} />
+      <Route path="/addtutorial" component={AddTutorial} />
     </BrowserRouter>
-  );
+  )
 }
